@@ -1,3 +1,25 @@
 body {
     padding-top: 5rem;
 }
+
+.text_area>input {
+    height: 100px;
+}
+
+form>div {
+    padding: 0;
+    line-height: 15px;
+}
+
+button {
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #637dfa;
+    border: #68aaf0;
+    color: white;
+    text-align: center;
+}
+
+.required {
+    color: red;
+}
